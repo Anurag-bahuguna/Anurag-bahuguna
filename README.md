@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 - 👯 I’m looking to collaborate on web development projects, especially those that involve full-stack development.
 - 🤔 I’m open to any web development ideas or suggestions—feel free to reach out!
 - 💬 Ask me about web development, JavaScript, React, or anything related to building modern web applications.
-- 📫 How to reach me: [your-email@example.com] | [LinkedIn](your-linkedin-profile) | [Twitter](your-twitter-profile)
+- 📫 How to reach me: [anurag.bahuguna777@gmail.com] | [LinkedIn](your-linkedin-profile) | [Twitter](your-twitter-profile)
 
 ## 🛠️ Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, TypeScript
