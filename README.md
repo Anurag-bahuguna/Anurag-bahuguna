@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragBahuguna&show_icons=true&theme=radical)
 
+
 ## 🌱 My Latest Projects
 - [Project 1](link): A brief description of what this project is about.
 - [Project 2](link): A brief description of what this project is about.
