@@ -23,10 +23,9 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 
 ## 🤝 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-bahuguna-b79293260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<!--  - [Twitter](your-twitter-link) -->
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](anurag.bahuguna777@gmail.com)
 - [Website/Portfolio](your-website-link)
-
+<!--  - [Twitter](your-twitter-link) -->
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Anurag Bahuguna](https://www.linkedin.com/in/anurag-bahuguna-b79293260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bahugunaanurag007@gmail.com) -->
 
