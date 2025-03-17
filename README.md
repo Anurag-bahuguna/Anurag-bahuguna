@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 - **Others**: REST APIs, GraphQL, Responsive Design
   
 ## 🌱 My Latest Projects
+
 - [Project 1](link): this is my most recent project of E commerce website using frontend completely from scratch.
 - [Project 2](link): yshshsh.
 
