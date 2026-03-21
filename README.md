@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 ## 🌱 My Latest Projects
 
 - [Project 1](link): this is my most recent project of E commerce website using frontend completely from scratch.
-- [Project 2](link): yshshsh
+- [Project 2](link): yshshshdfd
 
 ## 🤝 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-bahuguna-b79293260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
