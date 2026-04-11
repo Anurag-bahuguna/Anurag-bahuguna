@@ -37,6 +37,7 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Anurag-bahuguna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-bahuguna&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
