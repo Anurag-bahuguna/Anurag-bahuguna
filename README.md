@@ -1,6 +1,5 @@
 # Hi there, I'm Anurag Bahuguna 👋
 
-
 Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, learn, and improve. Whether it's front-end or back-end, I enjoy creating dynamic, user-friendly websites and applications. Here’s a little more about me:
 
 ## 🚀 About Me
