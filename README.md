@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a passionate Web Developer, always excited to build, l
 
 
 
-
-
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my web development skills and building exciting web applications.
 - 🌱 I’m currently learning advanced JavaScript, React, and backend technologies like Node.js.
